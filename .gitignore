@@ -1,0 +1,8 @@
+config/
+data/
+.env
+agent-config.json
+snapshot.json
+live.json
+__pycache__/
+*.pyc
